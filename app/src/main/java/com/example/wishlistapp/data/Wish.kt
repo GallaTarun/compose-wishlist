@@ -1,0 +1,15 @@
+package com.example.wishlistapp.data
+
+data class Wish(
+    val id: Long = 0L,
+    val title: String = "",
+    val description: String = ""
+)
+
+object DummyWish {
+    val wishList = listOf(
+        Wish(title = "Iphone 15", description = "Latest Iphone"),
+        Wish(title = "Macbook pro", description = "This is the latest macbook that Apple has launched in the last five years"),
+        Wish(title = "Vision pro", description = "This is the latest AR headset apple has launched recently"),
+    )
+}
