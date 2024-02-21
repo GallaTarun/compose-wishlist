@@ -1,4 +1,6 @@
-# Simple wishlist app made with Kotlin and Jetpack compose.
+# Simple wishlist app 
+- Made with Kotlin and Jetpack compose.
+- Permanently store the Wish entries in a Room database and implement CRUD functionalities.
 
 ## Tools:
 - Room database
