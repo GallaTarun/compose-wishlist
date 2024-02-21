@@ -3,6 +3,7 @@
 - Permanently store the Wish entries in a Room database and implement CRUD functionalities.
 
 ## Tools:
+- Kotlin, Jetpack Compose
 - Room database
 - Data Access Objects (DAO)
 - Repository
