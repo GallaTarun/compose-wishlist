@@ -7,5 +7,8 @@
 - ViewModel
 - Dependancy Injection
 
-
-![plot](./screenshots/Screenshot_20240222_022858.png) ![plot](./screenshots/Screenshot_20240222_022957.png)
+<p align="center">
+  <img src="./screenshots/Screenshot_20240222_022858.png" alt="Image 1" width="250" style="display: inline-block; margin-right: 20px;">
+  <img src="./screenshots/Screenshot_20240222_022957.png" alt="Image 2" width="250" style="display: inline-block; margin-right: 20px;">
+  <img src="./screenshots/Screenshot_20240222_022936.png" alt="Image 2" width="250" style="display: inline-block;">
+</p>
