@@ -1,8 +1,11 @@
-Simple wishlist app made with Kotlin and Jetpack compose.
+# Simple wishlist app made with Kotlin and Jetpack compose.
 
-Changes done : 
-- Added Main screen which displays all the saved wishes.
-- Added Add/Edit screen which displays a form to add/edit wishes.
+## Tools:
+- Room database
+- Data Access Objects (DAO)
+- Repository
+- ViewModel
+- Dependancy Injection
 
-TODO:
-- Create Room databases to save wishes.
+
+![plot](./screenshots/Screenshot_20240222_022858.png) ![plot](./screenshots/Screenshot_20240222_022957.png)
